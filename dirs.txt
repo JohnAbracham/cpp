@@ -1,1 +1,2 @@
-headers -> att1(attemp 1) -> main.cpp/header.h
+headers -> att1(attemp 1) -> main.cpp/header.h = Просто попытка сделать класса в заголовочном файле
+headers -> att1(attemp 1) -> main.cpp/header.h = Попытка реализизовать шаблон класса
