@@ -1,2 +1,4 @@
 headers -> att1(attemp 1) -> main.cpp/header.h = Просто попытка сделать класса в заголовочном файле
-headers -> att1(attemp 1) -> main.cpp/header.h = Попытка реализизовать шаблон класса
+headers -> att2(attemp 2) -> main.cpp/header.h = Попытка реализизовать шаблон класса
+headers -> att3(attemp 3) -> main.cpp = Русская локализация
+headers -> att3(attemp 3) -> main.cpp = Переменные, максимальное и минимальное их значение
